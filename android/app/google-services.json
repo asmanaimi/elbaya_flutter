@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "599316935894",
+    "firebase_url": "https://el-baya.firebaseio.com",
+    "project_id": "el-baya",
+    "storage_bucket": "el-baya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599316935894:android:c03b9f768e16be097c0577",
+        "android_client_info": {
+          "package_name": "com.example.elbaya_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599316935894-j9njmlh1t12od2sppndvsk50f3u4spkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAru6QaTZpUhYjFUNOR-6IYtC_Yv6BdIUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599316935894-j9njmlh1t12od2sppndvsk50f3u4spkg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
